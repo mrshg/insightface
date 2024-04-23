@@ -1,5 +1,7 @@
 
 # InsightFace: 2D and 3D Face Analysis Project
+Comece por este vídeo:
+[AI Influencers Are Making Over $10,000 Per Month…Let’s Build One](https://www.youtube.com/watch?v=Ui7U5KLw6cc)
 
 <div align="left">
   <img src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
